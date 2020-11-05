@@ -1,0 +1,6 @@
+USER STORIES
+
+ 1)As a user, I want to search a service, so that I can find someone who offers the best solution.
+ 2)As a freelance, I want to be able to view and respond to user announcements, so that I can satisfy them.
+ 3)As a company, I want to view freelancers that are looking for job, so that I can create a more competent
+team.

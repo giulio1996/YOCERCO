@@ -1,0 +1,4 @@
+Functional requirements:
+1)The system shall provide the reliability of a user, based on reached reviews.
+2) The system shall display the skills and certificates of freelances.
+3) The system shall display list of service request, ordered by distance.
